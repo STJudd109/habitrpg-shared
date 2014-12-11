@@ -83,5 +83,6 @@
     "block": "Block",
     "unblock": "Un-block",
     "pm-reply": "Send a reply",
-    "inbox": "Inbox"
+    "inbox": "Inbox",
+    "flag": "Report violation of Community Guidelines"
 }
